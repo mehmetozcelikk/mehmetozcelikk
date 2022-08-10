@@ -22,8 +22,8 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 <details>
 <summary>:bulb:Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Ustendr&count_private=true&show_icons=true&theme=radical&hide_rank=false"></details>
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetozcelikk&count_private=true&show_icons=true&theme=radical&hide_rank=false"></details>
 
 <details>
 <summary>:bulb:Most Used Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ustendr"></details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetozcelikk"></details>
