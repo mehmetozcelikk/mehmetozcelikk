@@ -10,7 +10,7 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ### Other technologies I use
- HTML5, CSS3, Bootstrap 4,Jquery, Angular
+ HTML5, CSS3, Bootstrap 4,Jquery
 
 ### Contact Me
 
