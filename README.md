@@ -14,7 +14,7 @@ I called myself a Backend Developer but as hobies I'm trying to learn another la
 
 ### Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetözçelik)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmettozcelik)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmett.ozcelik@yahoo.com)
 [![Twitter](https://img.shields.io/badge/<twitter>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ozcelik_Mehmett)
 
